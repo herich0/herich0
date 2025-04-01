@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=false&vCenter=true&width=500&lines=Hey+there!+I'm+Herich.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C0EF7&width=435&lines=Hey+there!+I'm+Herich+Gabriel+de+Campos.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 ### Technologies and tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/> 
