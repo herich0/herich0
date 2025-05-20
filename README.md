@@ -24,10 +24,10 @@
 
 <div align="center">
   <a href="https://github.com/herich0">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Herich&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&border_color=00000000"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=herich0&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&border_color=00000000"/>
   </a>
   <a href="https://github.com/herich0">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herich&layout=compact&langs_count=6&theme=tokyonight&border_color=00000000"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herich0&layout=compact&langs_count=6&theme=tokyonight&border_color=00000000"/>
   </a>
 </div>
     
