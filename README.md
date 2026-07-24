@@ -88,10 +88,10 @@
 
 | Repositório | Descrição | Stack |
 |:---|:---|:---:|
-| 👁️ **[visaoComputacional](https://github.com/herich0/visaoComputacional)** | Algoritmos de extração de características e CBIR (SIFT / ORB) | `Python` |
-| 📊 **[cienciaDados](https://github.com/herich0/cienciaDados)** | Classificadores de Machine Learning (kNN / Scikit-Learn) | `Python` |
-| 🧠 **[IA-2](https://github.com/herich0/IA-2)** | Redes Neurais (MLP) e Algoritmos Genéticos de otimização | `Python` |
-| ⚡ **[paralela](https://github.com/herich0/paralela)** | Processamento de alta performance e integração numérica | `C++` `OpenMP` |
+|  **[visaoComputacional](https://github.com/herich0/visaoComputacional)** | Algoritmos de extração de características e CBIR (SIFT / ORB) | `Python` |
+|  **[cienciaDados](https://github.com/herich0/cienciaDados)** | Classificadores de Machine Learning (kNN / Scikit-Learn) | `Python` |
+|  **[IA-2](https://github.com/herich0/IA-2)** | Redes Neurais (MLP) e Algoritmos Genéticos de otimização | `Python` |
+|  **[paralela](https://github.com/herich0/paralela)** | Processamento de alta performance e integração numérica | `C++` `OpenMP` |
 
 </div>
 
@@ -115,9 +115,9 @@
 
 | Projeto | Categoria | Status |
 |:---|:---|:---:|
-|  **TCC — Simulador TFT + IAs** — biblioteca C++/Python com agentes | `C++` · `Python` | ⏳ em desenvolvimento |
-|  **ECeNut** — sistema full-stack da clínica escola de nutrição | `Laravel` · `Vue` | 🔄 em andamento |
-|  **PET Saúde Digital** — análise de dados e sistemas para saúde pública | `Python` · `SQL` | 🔄 em andamento |
+|  **TCC — Simulador TFT + IAs** — biblioteca C++/Python com agentes | `C++` · `Python` |  em desenvolvimento |
+|  **ECeNut** — sistema full-stack da clínica escola de nutrição | `Laravel` · `Vue` |  em andamento |
+|  **PET Saúde Digital** — análise de dados e sistemas para saúde pública | `Python` · `SQL` |  em andamento |
 
 </div>
 
