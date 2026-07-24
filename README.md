@@ -16,8 +16,8 @@
 <br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&pause=1200&color=C8A96E&background=00000000&center=true&width=580&lines=%5BSYS%5D+Inicializando+perfil...;%5BSYS%5D+Desenvolvedor+TypeScript+%2F+PHP+%2F+Laravel;%5BSYS%5D+Estudante+de+Ciência+da+Computação;%5BSYS%5D+Unicentro+—+Guarapuava%2C+PR" alt="Typing SVG" />
+  <a href="https://github.com/herich0">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1200&color=C8A96E&background=00000000&center=true&width=580&lines=%5BSYS%5D+Inicializando+perfil...;%5BSYS%5D+Desenvolvedor+C%2B%2B+%2F+Python+%2F+Back-End;%5BSYS%5D+Foco+em+IA+%26+Ci%C3%AAncia+de+Dados;%5BSYS%5D+Unicentro+%E2%80%94+Guarapuava%2C+PR" alt="Typing SVG" />
   </a>
 </div>
 
@@ -44,12 +44,20 @@
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/ZfA3B7E9YJIAAAAC/nier-automata-yorha.gif" width="100" alt="YoRHa Logo"/>
+</div>
+
+<br>
+
 <div align="center">
   <p>
     Estudante de Ciência da Computação na <strong>Unicentro</strong> (Guarapuava — PR).<br>
-    Contribuo com o <strong>ECeNut</strong>, projeto de extensão que digitaliza os processos da clínica escola de nutrição (Laravel + Vue).<br>
-    Integro o <strong>PET Saúde Digital</strong>, desenvolvendo um sistema de prontuário digital para as áreas de saúde do município.<br>
-    Meu TCC é um <strong>ambiente simulado de TFT</strong> — biblioteca Python (C++ por baixo) para treinar e testar diferentes IAs no jogo.
+    Contribuo com o <strong>ECeNut</strong>, projeto de extensão que digitaliza os processos da clínica escola de nutrição.<br>
+    Integro o <strong>PET Saúde Digital</strong>, desenvolvendo sistemas e análise de dados para as áreas de saúde do município.<br>
+    Meu projeto principal é um <strong>ambiente simulado de TFT</strong> — C++ e Python para treinar e testar diferentes IAs no jogo.
   </p>
 </div>
 
@@ -63,44 +71,28 @@
   <table>
     <tr>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"/>
-        <br><sub><b>TypeScript</b></sub>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/>
-        <br><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="44" height="44" alt="PHP"/>
-        <br><sub><b>PHP</b></sub>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="44" height="44" alt="Java"/>
-        <br><sub><b>Java</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++"/>
+        <br><sub><b>C++</b></sub>
       </td>
       <td align="center" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" height="44" alt="Python"/>
         <br><sub><b>Python</b></sub>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="44" height="44" alt="Dart"/>
-        <br><sub><b>Dart</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="44" height="44" alt="Java"/>
+        <br><sub><b>Java</b></sub>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="44" height="44" alt="C"/>
-        <br><sub><b>C</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="44" height="44" alt="PHP"/>
+        <br><sub><b>PHP</b></sub>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++"/>
-        <br><sub><b>C++</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript"/>
+        <br><sub><b>JavaScript</b></sub>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" alt="HTML"/>
-        <br><sub><b>HTML</b></sub>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" alt="CSS"/>
-        <br><sub><b>CSS</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL"/>
+        <br><sub><b>SQL</b></sub>
       </td>
     </tr>
   </table>
@@ -114,40 +106,28 @@
   <table>
     <tr>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="44" height="44" alt="Laravel"/>
-        <br><sub><b>Laravel</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="44" height="44" alt="AWS"/>
+        <br><sub><b>AWS</b></sub>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React"/>
-        <br><sub><b>React</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="44" height="44" alt="Pandas"/>
+        <br><sub><b>Pandas</b></sub>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="44" height="44" alt="Vue"/>
-        <br><sub><b>Vue</b></sub>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="44" height="44" alt="Flutter"/>
-        <br><sub><b>Flutter</b></sub>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js"/>
-        <br><sub><b>Node.js</b></sub>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="44" height="44" alt="Firebase"/>
-        <br><sub><b>Firebase</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux"/>
+        <br><sub><b>Linux</b></sub>
       </td>
       <td align="center" width="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" height="44" alt="Git"/>
         <br><sub><b>Git</b></sub>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL"/>
-        <br><sub><b>MySQL</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="44" height="44" alt="Laravel"/>
+        <br><sub><b>Laravel</b></sub>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="44" height="44" alt="VSCode"/>
-        <br><sub><b>VSCode</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="44" height="44" alt="Vue"/>
+        <br><sub><b>Vue</b></sub>
       </td>
     </tr>
   </table>
@@ -176,27 +156,34 @@
 
 <br>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/iuripedroso/GameSetter" title="GameSetter — Site de review de jogos">
-    <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=iuripedroso&repo=GameSetter&theme=dark&bg_color=0d0d0d&title_color=c8a96e&icon_color=a89060&text_color=e0d5c0&border_color=3a2e1e&border_radius=8" />
-  </a>
-  <a align="right" href="https://github.com/herich0/Dev-p-dispositivos-m-veis/tree/main/flutter_apps/api_tft_trab1" title="Flutter Apps — TFT (API · Local DB · Firebase)">
-    <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=herich0&repo=Dev-p-dispositivos-m-veis&theme=dark&bg_color=0d0d0d&title_color=c8a96e&icon_color=a89060&text_color=e0d5c0&border_color=3a2e1e&border_radius=8" />
-  </a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/herich0/visaoComputacional" title="Visão Computacional — CBIR / SIFT / ORB">
+          <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=herich0&repo=visaoComputacional&theme=dark&bg_color=0d0d0d&title_color=c8a96e&icon_color=a89060&text_color=e0d5c0&border_color=3a2e1e&border_radius=8" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/herich0/cienciaDados" title="Ciência de Dados — kNN / Scikit-Learn">
+          <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=herich0&repo=cienciaDados&theme=dark&bg_color=0d0d0d&title_color=c8a96e&icon_color=a89060&text_color=e0d5c0&border_color=3a2e1e&border_radius=8" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/herich0/IA-2" title="IA-2 — Redes Neurais / Algoritmo Genético">
+          <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=herich0&repo=IA-2&theme=dark&bg_color=0d0d0d&title_color=c8a96e&icon_color=a89060&text_color=e0d5c0&border_color=3a2e1e&border_radius=8" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/herich0/paralela" title="Programação Paralela — C++ / OpenMP">
+          <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=herich0&repo=paralela&theme=dark&bg_color=0d0d0d&title_color=c8a96e&icon_color=a89060&text_color=e0d5c0&border_color=3a2e1e&border_radius=8" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<br/><br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/herich0/IA-2" title="IA-2 — MLP · Algoritmo Genético · Colônia de Formigas">
-    <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=herich0&repo=IA-2&theme=dark&bg_color=0d0d0d&title_color=c8a96e&icon_color=a89060&text_color=e0d5c0&border_color=3a2e1e&border_radius=8" />
-  </a>
-  <a align="right" href="https://github.com/herich0/ToDoList" title="ToDoList — Laravel">
-    <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=herich0&repo=ToDoList&theme=dark&bg_color=0d0d0d&title_color=c8a96e&icon_color=a89060&text_color=e0d5c0&border_color=3a2e1e&border_radius=8" />
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/><br/>
 
 <br>
 
@@ -218,9 +205,9 @@
 
 | Projeto | Stack | Status |
 |---|---|---|
-| 🔒 **ECeNut** — sistema da clínica escola de nutrição (extensão) | Laravel · Vue | `em andamento` |
-| 🏥 **PET Saúde Digital** — prontuário digital para saúde pública | a definir | `iniciando` |
-| 🤖 **TCC — Simulador TFT + IAs** — biblioteca Python/C++ com agentes de RL | Python · C++ | `em planejamento` |
+|  **TCC — Simulador TFT + IAs** — biblioteca C++/Python com agentes | C++ · Python | `em desenvolvimento` |
+|  **ECeNut** — sistema da clínica escola de nutrição (extensão) | Laravel · Vue | `em andamento` |
+|  **PET Saúde Digital** — análise de dados e sistemas para saúde pública | Python · SQL | `em andamento` |
 
 </div>
 
